@@ -1,0 +1,8 @@
+<!-- menu-catalogue.component.html -->
+<div *ngFor="let card of cards" class="card">
+  <img [src]="card.image" alt="{{ card.title }}" class="card-img" />
+  <h3>{{ card.title }}</h3>
+  <p>{{ card.description }}</p>
+  <p>Price: {{ card.price }}</p>
+  <p>Weight: {{ card.weight }}</p>
+</div>

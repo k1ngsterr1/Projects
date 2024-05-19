@@ -1,0 +1,9 @@
+[
+  {
+    "image": "https://example.com/image1.jpg",
+    "title": "Card Title 1",
+    "description": "Description for Card 1",
+    "price": 25,
+    "weight": "250g"
+  }
+]

@@ -1,9 +1,242 @@
 [
   {
+    "type": "breakfast",
+    "image": "https://example.com/pancakes.jpg",
+    "title": "Блины фаршированные семгой (с мясом и грибами) (2 шт)",
+    "description": "Delicious stuffed pancakes with salmon, meat, and mushrooms.",
+    "price": 1300,
+    "weight": "300г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://example.com/crepe.jpg",
+    "title": "Блины фаршированные с яйцом (со сгущенным молоком или медом) (2 шт)",
+    "description": "Sweet crepes filled with egg, condensed milk, or honey.",
+    "price": 1050,
+    "weight": "250г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://example.com/omelette.jpg",
+    "title": "Омлет со сметаной (3 яйца)",
+    "description": "Fluffy omelette with sour cream.",
+    "price": 800,
+    "weight": "200г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://example.com/tomato_omelette.jpg",
+    "title": "Омлет с помидорами и ветчиной",
+    "description": "Omelette with tomatoes and ham.",
+    "price": 850,
+    "weight": "200г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://example.com/plain_omelette.jpg",
+    "title": "Омлет (из 2-х яиц)",
+    "description": "Simple two-egg omelette.",
+    "price": 650,
+    "weight": "150г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://example.com/porridge.jpg",
+    "title": "Каша (манная, рисовая, овсяная, кукурузная)",
+    "description": "Choice of porridge: semolina, rice, oatmeal, or corn.",
+    "price": 750,
+    "weight": "200г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://example.com/butterbread.jpg",
+    "title": "Бутерброд к завтраку (сыр, колбаса, помидоры)",
+    "description": "Breakfast sandwich with cheese, sausage, and tomatoes.",
+    "price": 800,
+    "weight": "250г"
+  },
+  {
+    "type": "soups",
     "image": "https://example.com/image1.jpg",
-    "title": "Card Title 1",
-    "description": "Description for Card 1",
-    "price": 25,
-    "weight": "250g"
+    "title": "Уха 'Царская' из сёмги",
+    "description": "A royal fish soup made from salmon, known for its rich and hearty flavor.",
+    "price": 2150,
+    "weight": "300г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image2.jpg",
+    "title": "Мясо по-казацски",
+    "description": "A traditional Cossack meat soup, robust and filling with a variety of meats.",
+    "price": 1800,
+    "weight": "350г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image3.jpg",
+    "title": "Солянка",
+    "description": "A thick, spicy, and sour Russian soup made with various kinds of meat and sausages.",
+    "price": 1200,
+    "weight": "300г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image4.jpg",
+    "title": "Кукси",
+    "description": "A traditional Korean noodle soup, served in a savory broth with vegetables.",
+    "price": 1600,
+    "weight": "300г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image5.jpg",
+    "title": "Сорпа из говядины",
+    "description": "A rich beef broth soup, known for its deep flavor and nourishing properties.",
+    "price": 1100,
+    "weight": "300г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image6.jpg",
+    "title": "Пельмени с бульоном",
+    "description": "Dumplings filled with meat, served in a light broth.",
+    "price": 1300,
+    "weight": "250г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image7.jpg",
+    "title": "Окрошка с мясом",
+    "description": "A cold soup made with kvass and mixed with diced meat and vegetables, perfect for hot days.",
+    "price": 1300,
+    "weight": "250г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image8.jpg",
+    "title": "Окрошка с колбасой",
+    "description": "A refreshing cold soup made with kvass, sausages, and fresh vegetables.",
+    "price": 1300,
+    "weight": "250г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image9.jpg",
+    "title": "Окрошка овощная",
+    "description": "A vegetarian version of the classic cold soup, loaded with fresh garden vegetables.",
+    "price": 1200,
+    "weight": "250г"
+  },
+  {
+    "type": "soups",
+    "image": "https://example.com/image10.jpg",
+    "title": "Суп лапша по-домашнему",
+    "description": "Homemade noodle soup, simple and comforting.",
+    "price": 1050,
+    "weight": "300г"
+  },
+  {
+    "type": "salads-without-mayonaisse",
+    "image": "https://example.com/image_barxan.jpg",
+    "title": "Бархан",
+    "description": "Огурцы, сельдерей, перец сладкий, огурцы квашеные, кинза, кунжутные семечки, киндза маринованная",
+    "price": 2200,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonaisse",
+    "image": "https://example.com/image_cesar_chicken.jpg",
+    "title": "Цезарь с курицей грудкой",
+    "description": "Традиционный салат 'Цезарь' с добавлением куриной грудки",
+    "price": 2000,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonaisse",
+    "image": "https://example.com/image_cesar_bacon.jpg",
+    "title": "Цезарь с беконом",
+    "description": "Традиционный салат 'Цезарь' с добавлением бекона",
+    "price": 1600,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonaisse",
+    "image": "https://example.com/image_cesar_salmon.jpg",
+    "title": "Цезарь с семгой",
+    "description": "Традиционный салат 'Цезарь' с добавлением семги",
+    "price": 2600,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonaisse",
+    "image": "https://example.com/image_greek_salad.jpg",
+    "title": "Греческий",
+    "description": "Огурцы, помидоры, брынза, маслины, сладкий перец, оливковое масло, зелень",
+    "price": 2200,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonaisse",
+    "image": "https://example.com/image_fresh_cabbage.jpg",
+    "title": "Свежий",
+    "description": "Капуста свежая с добавлением моркови и майонеза по желанию",
+    "price": 1250,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_baklajan_caviar.jpg",
+    "title": "Баклажаны по-кавказски",
+    "description": "Приготовленные по уникальному кавказскому рецепту с добавлением майонеза.",
+    "price": 2000,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_korean_carrot.jpg",
+    "title": "Цветная капуста по-корейски",
+    "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
+    "price": 2000,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_korean_carrot.jpg",
+    "title": "Огурцы по-корейский",
+    "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
+    "price": 2000,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_korean_carrot.jpg",
+    "title": "Фунчоза овощная",
+    "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
+    "price": 2000,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_korean_carrot.jpg",
+    "title": "Фунчоза с мясом",
+    "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
+    "price": 2200,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_korean_carrot.jpg",
+    "title": "Баклажаны по-тайски",
+    "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
+    "price": 2600,
+    "weight": "250г"
+  },
+  {
+    "type": "salads-without-mayonnaise",
+    "image": "https://example.com/image_korean_carrot.jpg",
+    "title": "Салат Марс",
+    "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
+    "price": 3250,
+    "weight": "250г"
   }
 ]

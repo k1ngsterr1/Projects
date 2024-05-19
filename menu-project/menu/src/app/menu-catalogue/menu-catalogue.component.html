@@ -1,8 +1,36 @@
-<!-- menu-catalogue.component.html -->
-<div *ngFor="let card of cards" class="card">
-  <img [src]="card.image" alt="{{ card.title }}" class="card-img" />
-  <h3>{{ card.title }}</h3>
-  <p>{{ card.description }}</p>
-  <p>Price: {{ card.price }}</p>
-  <p>Weight: {{ card.weight }}</p>
+<div class="container">
+  <!-- Use the exact value from your JSON data -->
+  <mat-form-field appearance="fill" class="selector">
+    <mat-label>Категория</mat-label>
+    <mat-select [(ngModel)]="selectedCategory">
+      <mat-option value="">Все</mat-option>
+      <mat-option value="breakfast">Завтраки</mat-option>
+      <mat-option value="soups">Супы</mat-option>
+      <mat-option value="salads-without-mayonaisse"
+        >Салаты без майонеза</mat-option
+      >
+      <mat-option value="salads-with-mayonaisse">Салаты с майонезом</mat-option>
+      <mat-option value="cold-snacks">Холодные закуски</mat-option>
+      <mat-option value="snacks-for-beer">Закуски к пиву</mat-option>
+      <mat-option value="hot-snacks">Горячие закуски</mat-option>
+      <mat-option value="sauces">Соусы</mat-option>
+      <mat-option value="bird-food">Блюда из птицы</mat-option>
+      <mat-option value="beef-food">Блюда из говядины</mat-option>
+      <mat-option value="lamb-food">Блюда из баранины</mat-option>
+      <mat-option value="fish-food">Блюда из рыбы</mat-option>
+      <mat-option value="fast-food">Фаст-фуд</mat-option>
+      <mat-option value="east-food">Блюда из восточной кухни</mat-option>
+      <mat-option value="garnirs">Гарниры</mat-option>
+      <mat-option value="pizza">Пицца</mat-option>
+      <mat-option value="bread">Хлеб и выпечка</mat-option>
+      <mat-option value="holiday-food">Банкетные блюда</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <div *ngFor="let card of filteredCards" class="card">
+    <img [src]="card.image" alt="{{ card.title }}" class="card__img" />
+    <h3 class="card__header">{{ card.title }}</h3>
+    <p class="card__weight">Вес: {{ card.weight }}</p>
+    <p class="card__price">{{ card.price }}₸</p>
+  </div>
 </div>

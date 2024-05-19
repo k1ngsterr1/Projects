@@ -1,16 +1,26 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { CommonModule } from '@angular/common'; // Import CommonModule
+import { CommonModule } from '@angular/common';
+import { MatSelectModule } from '@angular/material/select';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-menu-catalogue',
   standalone: true,
-  imports: [CommonModule], // Add CommonModule here
+  imports: [
+    CommonModule,
+    FormsModule,
+    MatFormFieldModule,
+    MatSelectModule,
+    FormsModule,
+  ],
   templateUrl: './menu-catalogue.component.html',
-  styleUrls: ['./menu-catalogue.component.scss'], // Also correct 'styleUrl' to 'styleUrls'
+  styleUrls: ['./menu-catalogue.component.scss'],
 })
 export class MenuCatalogueComponent implements OnInit {
-  cards: any[] = []; // Define the cards array to store the data
+  cards: any[] = [];
+  selectedCategory = '';
 
   constructor(private http: HttpClient) {}
 
@@ -21,11 +31,18 @@ export class MenuCatalogueComponent implements OnInit {
   loadData() {
     this.http.get<any[]>('assets/content/cards.json').subscribe({
       next: (data) => {
-        this.cards = data; // Assign the fetched data to the cards array
+        this.cards = data;
       },
       error: (error) => {
         console.error('Error loading card data:', error);
       },
     });
+  }
+
+  get filteredCards() {
+    if (!this.selectedCategory || this.selectedCategory === 'Все') {
+      return this.cards;
+    }
+    return this.cards.filter((card) => card.type === this.selectedCategory);
   }
 }

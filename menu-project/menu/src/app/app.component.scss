@@ -1,0 +1,5 @@
+.heading {
+  text-align: center;
+  margin: auto;
+  margin-top: clamp(16px, 32 / 360 * 100vw, 64px);
+}

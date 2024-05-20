@@ -1,9 +1,10 @@
-import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MatSelectModule } from '@angular/material/select';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { FormsModule } from '@angular/forms';
+import { TranslateModule, TranslateService } from '@ngx-translate/core';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-menu-catalogue',
@@ -13,7 +14,7 @@ import { FormsModule } from '@angular/forms';
     FormsModule,
     MatFormFieldModule,
     MatSelectModule,
-    FormsModule,
+    TranslateModule,
   ],
   templateUrl: './menu-catalogue.component.html',
   styleUrls: ['./menu-catalogue.component.scss'],
@@ -22,7 +23,11 @@ export class MenuCatalogueComponent implements OnInit {
   cards: any[] = [];
   selectedCategory = '';
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient, private translate: TranslateService) {}
+
+  changeLanguage(language: string) {
+    this.translate.use(language);
+  }
 
   ngOnInit() {
     this.loadData();

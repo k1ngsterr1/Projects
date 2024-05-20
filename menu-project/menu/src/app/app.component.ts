@@ -2,10 +2,10 @@ import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { MenuCatalogueComponent } from './menu-catalogue/menu-catalogue.component';
 import { MenuHeaderComponent } from './menu-header/menu-header.component';
-import { HttpClientModule } from '@angular/common/http';
 import { MatSelectModule } from '@angular/material/select';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { FormsModule } from '@angular/forms';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-root',
@@ -14,14 +14,23 @@ import { FormsModule } from '@angular/forms';
     RouterOutlet,
     MenuCatalogueComponent,
     MenuHeaderComponent,
-    HttpClientModule,
     MatFormFieldModule,
     MatSelectModule,
     FormsModule,
   ],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss',
+  styleUrls: ['./app.component.scss'],
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'Меню ресторана Бархан';
+
+  constructor(private translate: TranslateService) {}
+
+  ngOnInit(): void {
+    // Initial translation configuration is done in main.ts
+  }
+
+  changeLanguage(language: string) {
+    this.translate.use(language);
+  }
 }

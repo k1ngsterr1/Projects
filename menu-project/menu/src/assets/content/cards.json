@@ -530,7 +530,7 @@
   {
     "type": "hot-snacks",
     "image": "https://example.com/image.jpg",
-    "title": "Овощной гриль",
+    "title": "Овощи гриль",
     "description": "Ассорти из свежих овощей на гриле.",
     "price": 2000,
     "weight": "500г"

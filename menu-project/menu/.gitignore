@@ -1,5 +1,11 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
+# Ignore everything at the root
+/*
+
+# Except the 'menu' directory
+!/menu
+
 # Compiled output
 /dist
 /tmp

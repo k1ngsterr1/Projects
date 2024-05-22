@@ -1,31 +1,47 @@
 [
   {
     "type": "breakfast",
-    "image": "https://example.com/pancakes.jpg",
-    "title": "Блины фаршированные семгой (с мясом и грибами) (2 шт)",
+    "image": "https://yasensvit.ua/uploads/recipes/prev/5f22c48b8a382.jpg",
+    "title": "Блины фаршированные сёмгой  (2 шт)",
     "description": "Delicious stuffed pancakes with salmon, meat, and mushrooms.",
     "price": 1300,
     "weight": "300г"
   },
   {
     "type": "breakfast",
-    "image": "https://example.com/crepe.jpg",
-    "title": "Блины фаршированные с яйцом (со сгущенным молоком или медом) (2 шт)",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2023/02/301_1676448697-scaled-e1676448782101.jpg",
+    "title": "Блины фаршированные с мясом и грибами (2 шт)",
     "description": "Sweet crepes filled with egg, condensed milk, or honey.",
     "price": 1050,
     "weight": "250г"
   },
   {
     "type": "breakfast",
-    "image": "https://example.com/omelette.jpg",
-    "title": "Омлет со сметаной (3 яйца)",
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131082141/170408162156/p_O.jpg",
+    "title": "Блинчики с джемом (со сгущенным молоком или медом) (2 шт)",
+    "description": "Sweet crepes filled with egg, condensed milk, or honey.",
+    "price": 800,
+    "weight": "250г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://freshbufet.ru/wp-content/uploads/2017/12/img_5331-700x457.jpg",
+    "title": "Блинчики со сметаной (3 шт)",
+    "description": "Sweet crepes filled with egg, condensed milk, or honey.",
+    "price": 800,
+    "weight": "250г"
+  },
+  {
+    "type": "breakfast",
+    "image": "https://static.1000.menu/img/content-v2/82/05/50028/omlet-s-pomidorami-na-skovorode_1598910826_9_max.jpg",
+    "title": "Омлет с помидорами (3 яйца)",
     "description": "Fluffy omelette with sour cream.",
     "price": 800,
     "weight": "200г"
   },
   {
     "type": "breakfast",
-    "image": "https://example.com/tomato_omelette.jpg",
+    "image": "https://images.gastronom.ru/aVJBswMSHD1PHL-hwVVCMyehVqs6sd7bCXjPivX2bbI/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzdhMDM5NmNkLWNkZWMtNGVmZS1iOWYxLTYyYmJmMmZmNGU0My5qcGc",
     "title": "Омлет с помидорами и ветчиной",
     "description": "Omelette with tomatoes and ham.",
     "price": 850,
@@ -33,7 +49,7 @@
   },
   {
     "type": "breakfast",
-    "image": "https://example.com/plain_omelette.jpg",
+    "image": "https://klopotenko.com/wp-content/uploads/2018/03/yaichnica-omlet_siteWeb.jpg",
     "title": "Омлет (из 2-х яиц)",
     "description": "Simple two-egg omelette.",
     "price": 650,
@@ -41,7 +57,7 @@
   },
   {
     "type": "breakfast",
-    "image": "https://example.com/porridge.jpg",
+    "image": "https://blog.nils.ru/wp-content/uploads/2018/02/bc21f696.jpg",
     "title": "Каша (манная, рисовая, овсяная, кукурузная)",
     "description": "Choice of porridge: semolina, rice, oatmeal, or corn.",
     "price": 750,
@@ -49,7 +65,7 @@
   },
   {
     "type": "breakfast",
-    "image": "https://example.com/butterbread.jpg",
+    "image": "https://static.1000.menu/img/content/33516/buterbrody-kolbasa-syr-pomidory-v-duxovke_1553156971_2_max.jpg",
     "title": "Бутерброд к завтраку (сыр, колбаса, помидоры)",
     "description": "Breakfast sandwich with cheese, sausage, and tomatoes.",
     "price": 800,
@@ -57,7 +73,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image1.jpg",
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/9719727/pub_648341f5a070bf5696362cc3_648344c5cdc3c01bccc5fbad/scale_1200",
     "title": "Уха 'Царская' из сёмги",
     "description": "A royal fish soup made from salmon, known for its rich and hearty flavor.",
     "price": 2150,
@@ -65,15 +81,15 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image2.jpg",
-    "title": "Мясо по-казацски",
+    "image": "https://i.ytimg.com/vi/VN6GUBTk3nM/maxresdefault.jpg",
+    "title": "Мясо по-казахски",
     "description": "A traditional Cossack meat soup, robust and filling with a variety of meats.",
     "price": 1800,
     "weight": "350г"
   },
   {
     "type": "soups",
-    "image": "https://example.com/image3.jpg",
+    "image": "https://ist.say7.info/img0002/58/258_0162p9x_4643_1024.jpg",
     "title": "Солянка",
     "description": "A thick, spicy, and sour Russian soup made with various kinds of meat and sausages.",
     "price": 1200,
@@ -81,7 +97,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image4.jpg",
+    "image": "https://cookhelp.ru/upload/recipes/sup-kuksi.jpeg",
     "title": "Кукси",
     "description": "A traditional Korean noodle soup, served in a savory broth with vegetables.",
     "price": 1600,
@@ -89,7 +105,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image5.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/cc3366d2f99bc0c0.jpeg",
     "title": "Сорпа из говядины",
     "description": "A rich beef broth soup, known for its deep flavor and nourishing properties.",
     "price": 1100,
@@ -97,7 +113,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image6.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/4f185b6d87f86a77.jpeg",
     "title": "Пельмени с бульоном",
     "description": "Dumplings filled with meat, served in a light broth.",
     "price": 1300,
@@ -105,7 +121,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image7.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyOhLGABLDvIV5CVh2SAImTTGLWFAurH6vZmBuOUsJ1w&s",
     "title": "Окрошка с мясом",
     "description": "A cold soup made with kvass and mixed with diced meat and vegetables, perfect for hot days.",
     "price": 1300,
@@ -113,7 +129,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image8.jpg",
+    "image": "https://img.povar.ru/mobile/f5/ba/3a/8e/okroshka_s_kolbasoi_na_gazirovannoi_vode-400436.JPG",
     "title": "Окрошка с колбасой",
     "description": "A refreshing cold soup made with kvass, sausages, and fresh vegetables.",
     "price": 1300,
@@ -121,7 +137,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image9.jpg",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2023/06/311_1686840922-scaled-e1686840979979-1280x640.jpg",
     "title": "Окрошка овощная",
     "description": "A vegetarian version of the classic cold soup, loaded with fresh garden vegetables.",
     "price": 1200,
@@ -129,7 +145,7 @@
   },
   {
     "type": "soups",
-    "image": "https://example.com/image10.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/misc/mobile/6ec883c208e212482909830dd8c2bfd4.jpg",
     "title": "Суп лапша по-домашнему",
     "description": "Homemade noodle soup, simple and comforting.",
     "price": 1050,
@@ -137,7 +153,7 @@
   },
   {
     "type": "salads-without-mayonaisse",
-    "image": "https://example.com/image_barxan.jpg",
+    "image": "https://menunedeli.ru/wp-content/uploads/2022/08/Salat-s-ogurcom-morkovyu-i-seldereem-500x350-2-500x333.jpg",
     "title": "Бархан",
     "description": "Огурцы, сельдерей, перец сладкий, огурцы квашеные, кинза, кунжутные семечки, киндза маринованная",
     "price": 2200,
@@ -145,7 +161,7 @@
   },
   {
     "type": "salads-without-mayonaisse",
-    "image": "https://example.com/image_cesar_chicken.jpg",
+    "image": "https://static.1000.menu/img/content-v2/79/77/1336/salat-cezar-s-syrom-pomidorami-kuricei-i-suxarikami_1617622037_14_max.jpg",
     "title": "Цезарь с курицей грудкой",
     "description": "Традиционный салат 'Цезарь' с добавлением куриной грудки",
     "price": 2000,
@@ -153,7 +169,7 @@
   },
   {
     "type": "salads-without-mayonaisse",
-    "image": "https://example.com/image_cesar_bacon.jpg",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2021/10/28_1633708231-scaled-e1633708289380-1280x640.jpg",
     "title": "Цезарь с беконом",
     "description": "Традиционный салат 'Цезарь' с добавлением бекона",
     "price": 1600,
@@ -161,7 +177,7 @@
   },
   {
     "type": "salads-without-mayonaisse",
-    "image": "https://example.com/image_cesar_salmon.jpg",
+    "image": "https://media.ovkuse.ru/images/recipes/c10a9282-0b90-4512-83f0-4312ec80dd67/c10a9282-0b90-4512-83f0-4312ec80dd67.png",
     "title": "Цезарь с семгой",
     "description": "Традиционный салат 'Цезарь' с добавлением семги",
     "price": 2600,
@@ -169,7 +185,7 @@
   },
   {
     "type": "salads-without-mayonaisse",
-    "image": "https://example.com/image_greek_salad.jpg",
+    "image": "https://menunedeli.ru/wp-content/uploads/2022/08/16B637CC-8E8B-4725-8953-2B33BC461A39-1200x900.jpeg",
     "title": "Греческий",
     "description": "Огурцы, помидоры, брынза, маслины, сладкий перец, оливковое масло, зелень",
     "price": 2200,
@@ -177,7 +193,7 @@
   },
   {
     "type": "salads-without-mayonaisse",
-    "image": "https://example.com/image_fresh_cabbage.jpg",
+    "image": "https://lafoy.ru/photo_l/ovoshchnye-salaty-recepty-1217-0.jpg",
     "title": "Свежий",
     "description": "Капуста свежая с добавлением моркови и майонеза по желанию",
     "price": 1250,
@@ -185,7 +201,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_baklajan_caviar.jpg",
+    "image": "https://img.povar.ru/mobile/ac/02/ed/42/baklajani_po-kavkazski-677460.JPG",
     "title": "Баклажаны по-кавказски",
     "description": "Приготовленные по уникальному кавказскому рецепту с добавлением майонеза.",
     "price": 2000,
@@ -193,7 +209,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_korean_carrot.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/25fdf0f04288a76d.jpeg",
     "title": "Цветная капуста по-корейски",
     "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
     "price": 2000,
@@ -201,7 +217,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_korean_carrot.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/25fdf0f04288a76d.jpeg",
     "title": "Огурцы по-корейский",
     "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
     "price": 2000,
@@ -209,7 +225,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_korean_carrot.jpg",
+    "image": "https://img.povar.ru/mobile/23/e7/1e/7c/funchoza_s_ovoshami-398653.jpg",
     "title": "Фунчоза овощная",
     "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
     "price": 2000,
@@ -217,7 +233,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_korean_carrot.jpg",
+    "image": "https://img.iamcook.ru/2022/upl/recipes/cat/u-78481c2f1ad590f6363dc2098238cb48.jpg",
     "title": "Фунчоза с мясом",
     "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
     "price": 2200,
@@ -225,7 +241,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_korean_carrot.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTam6ph5znIQikO-xW0Bs_v2IlM2NOPDmzJQCgvq4BtqA&s",
     "title": "Баклажаны по-тайски",
     "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
     "price": 2600,
@@ -233,7 +249,7 @@
   },
   {
     "type": "salads-without-mayonnaise",
-    "image": "https://example.com/image_korean_carrot.jpg",
+    "image": "https://i.ytimg.com/vi/qiSmSPfBS0A/maxresdefault.jpg",
     "title": "Салат Марс",
     "description": "Корейская пряная морковь, идеально подходит как гарнир к основным блюдам.",
     "price": 3250,
@@ -241,7 +257,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://www.povarenok.ru/data/cache/2016jun/12/20/1609829_45353-710x550x.jpg",
     "title": "Деликатесный",
     "description": "Традиционный русский салат с кусочками семги, морковью, огурцами, яйцом и зеленью, заправленный майонезом.",
     "price": 1900,
@@ -249,7 +265,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/2021/upl/recipes/cat/u-63a4b892169efb31b088d8991d95d6d6.jpg",
     "title": "Оливье с семгой",
     "description": "Традиционный русский салат с кусочками семги, морковью, огурцами, яйцом и зеленью, заправленный майонезом.",
     "price": 2000,
@@ -257,7 +273,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPiDzX1Xbq5iujTJ4PjbuL4EcqMBWnGAkziGKkpnyVw&s",
     "title": "Столичный",
     "description": "Классический салат с курицей, картофелем, морковью, зеленым горошком, яйцом и майонезом.",
     "price": 1850,
@@ -265,7 +281,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.povar.ru/mobile/10/3f/28/8a/salat_blajenstvo-672160.JPG",
     "title": "Блаженство",
     "description": "Салат с огурцами, курицей, кукурузой, сыром и яйцом, заправленный майонезом.",
     "price": 1350,
@@ -273,7 +289,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/2018/upl/recipes/cat/u-2de818b5d441bf33c535329ef2709911.jpg",
     "title": "Малибу",
     "description": "Салат с колбасой, сыром, огурцами и помидорами, заправленный майонезом.",
     "price": 1850,
@@ -281,7 +297,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://i.obozrevatel.com/food/recipemain/2020/3/3/76.jpg?size=636x424",
     "title": "Оливье с мясом",
     "description": "Классический русский салат с мясом, картофелем, огурцами, зеленым горошком, яйцом и майонезом.",
     "price": 1850,
@@ -289,7 +305,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2019/12/Depositphotos_124353610_xl-2015_1577080776-e1577080860525-630x315.jpg",
     "title": "Гнездо Глухаря",
     "description": "Салат из копченой курицы, консервированных кукурузы и огурцов, заправленный майонезом.",
     "price": 1850,
@@ -297,7 +313,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347002066059215.webp",
     "title": "Селедка под шубой",
     "description": "Салат из копченой курицы, консервированных кукурузы и огурцов, заправленный майонезом.",
     "price": 2000,
@@ -305,7 +321,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content/38391/salat-semga-pod-shuboi_1567194573_7_max.jpg",
     "title": "Семга под шубой",
     "description": "Салат из копченой курицы, консервированных кукурузы и огурцов, заправленный майонезом.",
     "price": 2350,
@@ -313,7 +329,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://edimdoma.ru/data/recipes/0014/9875/149875-ed4_wide.jpg?1654505870",
     "title": "Нежный",
     "description": "Салат из копченой курицы, консервированных кукурузы и огурцов, заправленный майонезом.",
     "price": 1850,
@@ -321,7 +337,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://images.gastronom.ru/zfNwA0PeCPNhBkNJiAYebGS0Cect4EyW0bnQQYI0jeQ/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzAxZGQ4YjY1LWQ2OTAtNDFlMi1hNjI4LWNmOWZmNDBkN2YxYS5qcGc",
     "title": "Оливье с колбасой",
     "description": "Классический салат с колбасой, картофелем, огурцами, зеленым горошком, яйцом и майонезом.",
     "price": 1850,
@@ -329,7 +345,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/6244be863883f890.jpeg",
     "title": "Французский",
     "description": "Салат с жареным мясом, помидорами и луком, заправленный майонезом.",
     "price": 1850,
@@ -337,7 +353,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/cat/u4376-c567a3d2f7917156f4418f570ed4b844.JPG",
     "title": "Французский с мясом",
     "description": "Салат с жареным мясом, помидорами и луком, заправленный майонезом.",
     "price": 2000,
@@ -345,7 +361,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/files/user-v2/34/7d/489397/foto/f_17-07-2022-05-49-47.1658080188.jpg",
     "title": "Язычки",
     "description": "Салат из баклажан, помидоров и чеснока, заправленный майонезом.",
     "price": 1850,
@@ -353,7 +369,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/9/92/347011557003929.webp",
     "title": "Мимоза",
     "description": "Слоеный салат из консервированной рыбы, овощей, яиц, заправленный майонезом.",
     "price": 1550,
@@ -361,7 +377,7 @@
   },
   {
     "type": "salads-with-mayonnaise",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2020/02/shutterstock_1286250469_1581306531-e1581306643567-630x315.jpg",
     "title": "Невеста",
     "description": "Салат с курицей, ананасом, огурцом, майонезом, истинно праздничное блюдо.",
     "price": 2200,
@@ -369,7 +385,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://mansarda.kz/wp-content/uploads/2020/11/%D0%9C%D1%8F%D1%81%D0%BD%D0%BE%D0%B5-%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8.jpg",
     "title": "Мясное ассорти",
     "description": "Ассорти из казы, хас, языка и консервированной нагетса, подается горячим.",
     "price": 6500,
@@ -377,7 +393,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://menu2go.ru/images/food/120/120_231_20210506183521_4050.jpg",
     "title": "Рыбное ассорти",
     "description": "Ассорти из семги, форели, осетра и кальмаров, подается горячим.",
     "price": 6500,
@@ -385,7 +401,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.tildacdn.com/tild3364-6234-4632-a636-346466343035/IMG_3737.JPGы",
     "title": "Овощи по-кавказки",
     "description": "Тонко нарезанный мясной рулет с кусочками семги, подается горячим.",
     "price": 2150,
@@ -393,7 +409,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.tildacdn.com/tild3364-6234-4632-a636-346466343035/IMG_3737.JPG",
     "title": "Овощное ассорти",
     "description": "Корзинка из теста, наполненная маринованными грибами, груздями и зеленью.",
     "price": 1700,
@@ -401,7 +417,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/zen/u-f62133c68c0a5742796d2f52558df3bf.JPG",
     "title": "Грибное лукошко",
     "description": "Корзинка из теста, наполненная маринованными грибами, груздями и зеленью.",
     "price": 2500,
@@ -409,7 +425,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://ist.say7.info/img0001/34/134_0140ty3_7752_1024.jpg",
     "title": "Мини-рулетики из лаваша с семгой",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 2100,
@@ -417,7 +433,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkwt9Tw2BtZljGGUHIqUmUqgW3VvjshCzY4XW2bVzHzQ&s",
     "title": "Русская закуска",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 1950,
@@ -425,7 +441,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img1.russianfood.com/dycontent/images_upl/528/big_527336.jpg",
     "title": "Помидоры пикантные",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 1850,
@@ -433,7 +449,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/5218815/pub_63a82cc6722e915965426304_63a82df3e7cb570eeb643e04/scale_1200",
     "title": "Соленья под водочку",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 1700,
@@ -441,7 +457,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content-v2/59/15/4806/cvetnaya-kapusta-v-klyare-prosto_1589562136_11_max.jpg",
     "title": "Цветная капуста в кляре",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 1300,
@@ -449,7 +465,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://menunedeli.ru/wp-content/uploads/2023/07/DSC08942-500x333.jpg",
     "title": "Куринное филе в кляре",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 1450,
@@ -457,7 +473,7 @@
   },
   {
     "type": "cold-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/140902214744/150126153945/p_O.jpg",
     "title": "Куринное филе в кунжутном семени",
     "description": "Нежное куриное филе, обжаренное в кляре до золотистой корочки.",
     "price": 1450,
@@ -465,7 +481,7 @@
   },
   {
     "type": "for-beer",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/130104145234/130113185309/p_O.jpg",
     "title": "Гарлики с соусом",
     "description": "Кремовый чесночный соус, идеальный дополнение к мясным и овощным блюдам.",
     "price": 1050,
@@ -473,7 +489,7 @@
   },
   {
     "type": "for-beer",
-    "image": "https://example.com/image.jpg",
+    "image": "https://kokshetau.avokado.kz/upload/iblock/af6/af60be8afce8bd2ed245f0c99c28670c.jpg",
     "title": "Сыр Чечел",
     "description": "Легкий соус на основе майонеза с добавлением трав, подходит для курицы и овощей.",
     "price": 1050,
@@ -481,7 +497,7 @@
   },
   {
     "type": "for-beer",
-    "image": "https://example.com/image.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kartoffelchips-1.jpg/800px-Kartoffelchips-1.jpg",
     "title": "Чипсы",
     "description": "Острый томатный соус, отлично сочетается с мясными блюдами.",
     "price": 1200,
@@ -489,7 +505,7 @@
   },
   {
     "type": "for-beer",
-    "image": "https://example.com/image.jpg",
+    "image": "https://ss.sport-express.ru/userfiles/materials/179/1794589/volga.jpg",
     "title": "Фисташки",
     "description": "Традиционный томатный кетчуп, идеально подходит к жареным и гриль блюдам.",
     "price": 1000,
@@ -497,7 +513,7 @@
   },
   {
     "type": "for-beer",
-    "image": "https://example.com/image.jpg",
+    "image": "https://api.kdvonline.kz/thumbnail/740x494/07/181/7181.png",
     "title": "Кириешки",
     "description": "Традиционный томатный кетчуп, идеально подходит к жареным и гриль блюдам.",
     "price": 800,
@@ -505,7 +521,7 @@
   },
   {
     "type": "hot-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://media.ovkuse.ru/images/recipes/839ed789-ac78-4e82-929d-e5300b75c818/839ed789-ac78-4e82-929d-e5300b75c818.jpg",
     "title": "Крылышки 'Баффало'",
     "description": "Жареные куриные крылышки в барбекю соусе, подаются горячими.",
     "price": 2100,
@@ -513,7 +529,7 @@
   },
   {
     "type": "hot-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.freepik.com/premium-photo/baked-chicken-wings-with-sweet-chili-sauce-plate-black-background-top-view_89816-41729.jpg",
     "title": "Крылышки гриль с соусом Чили",
     "description": "Куриные крылышки на гриле, подаются с острым соусом Чили.",
     "price": 2100,
@@ -521,7 +537,7 @@
   },
   {
     "type": "hot-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cosori.ru/upload/resize_cache/iblock/2a3/043h37ynw1kixhwsgatnkyflzbfkc4c9/1200_1000_1/87.jpg",
     "title": "Чесночный хлеб",
     "description": "Хлеб с чесночным маслом, запеченный до хрустящей корочки.",
     "price": 950,
@@ -529,7 +545,7 @@
   },
   {
     "type": "hot-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://www.bbbqqq.ru/upload/medialibrary/fd2/fd2fb3b1564a081158270816e772e0f0.jpg",
     "title": "Овощи гриль",
     "description": "Ассорти из свежих овощей на гриле.",
     "price": 2000,
@@ -537,7 +553,7 @@
   },
   {
     "type": "hot-snacks",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content-v2/af/a7/22447/julen-s-gribami-i-smetanoi_1675409704_1_max.jpg",
     "title": "Жульен с грибами",
     "description": "Кремовый жульен с грибами и сливочным соусом, подается в горшочке.",
     "price": 1300,
@@ -545,7 +561,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2021/04/Depositphotos_426764348_xl-2015-1_1618424881-scaled-e1618424986881-1280x640.jpg",
     "title": "Шашлычный красный",
     "description": "Острый красный соус, подходит для шашлыка и других мясных блюд.",
     "price": 400,
@@ -553,7 +569,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://resizer.mail.ru/p/36c90677-25b5-5149-b287-bae782190163/AQAF0_RePVQLJwyTD-OaFIPmNh5ez15DDyjRUaJbQPLUrIAZpVMuntitBS635JNJfYV6nohQAMjOJOuii2EEyYIEZlo.jpg",
     "title": "Шашлычный белый",
     "description": "Кремовый белый соус, отлично сочетается с мясными и овощными блюдами.",
     "price": 400,
@@ -561,7 +577,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyDaN6clGwuzZCpXoOhpLpMXwUE_3zV6_92cem9MMT3g&s",
     "title": "Лазджан",
     "description": "Грузинский острый соус на основе томатов и чеснока.",
     "price": 400,
@@ -569,7 +585,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.championat.com/c/1200x900/news/big/j/y/kakaya-smetana-poleznee-10-15-ili-20-zhirnosti_1653385205809169240.jpg",
     "title": "Сметана",
     "description": "Традиционная сметана, идеальна для блюд из картофеля или к котлетам.",
     "price": 400,
@@ -577,7 +593,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn-kz3.foodpicasso.com/assets/2023/02/06/998301f7c80ea7f9ef257403f4cd77e6---jpg_1000x_103c0_convert.jpg",
     "title": "Кетчуп",
     "description": "Классический томатный кетчуп, идеален для жареной картошки и бургеров.",
     "price": 400,
@@ -585,7 +601,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://e1.edimdoma.ru/data/ingredients/0000/1311/1311-ed4_wide.jpg?1487747467",
     "title": "Горчица",
     "description": "Эксклюзивный соус с необычным вкусом, подходит для экспериментальных блюд.",
     "price": 400,
@@ -593,7 +609,7 @@
   },
   {
     "type": "sauces",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s10.stc.all.kpcdn.net/family/wp-content/uploads/2023/11/title-photo-in-kak-prigotovit-domashnij-majonez-960x540-1.jpg",
     "title": "Майонез",
     "description": "Кремовый майонез, идеальный дополнение к салатам и холодным закускам.",
     "price": 400,
@@ -601,7 +617,7 @@
   },
   {
     "type": "chicken-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://dishmagazine.com/wp-content/uploads/2024/01/Papillote-with-salmon-and-vegetables.jpg",
     "title": "Куринный папильот",
     "description": "Куринное филе с овощами и сыром, запекается в фольге, что делает блюдо особенно сочным.",
     "price": 2350,
@@ -609,7 +625,7 @@
   },
   {
     "type": "chicken-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content-v2/28/c0/37120/kurica-zapechennaya-s-syrom-i-pomidorami_1649747221_2_max.jpg",
     "title": "Куринный стейк с томатами под сыром",
     "description": "Нежная куринная грудка под толстым слоем трех видов сыра, запеченная до золотистой корочки.",
     "price": 2350,
@@ -617,7 +633,7 @@
   },
   {
     "type": "chicken-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/cat/u-f10f67916e2a8f3bdbf4757e971f7ad3.jpg",
     "title": "Курица по-тайски",
     "description": "Курица в ароматном тайском соусе с добавлением экзотических специй и овощей.",
     "price": 2300,
@@ -625,7 +641,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://www.steakhome.ru/upload/iblock/fc8/fc878f0608980e3feffa671f47e0cbae.jpg",
     "title": "Рибай стейк от шеф-повара",
     "description": "Жареный стейк Рибай с пряным миксом трав и специй, подается с соусом.",
     "price": 6500,
@@ -633,7 +649,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkUENSROd0m6scK9_MuQvy4v5h6hmdvt-0IZQ1TvAMw&s",
     "title": "Пепер стейк",
     "description": "Стейк с перечным соусом, приготовленный из высококачественной говядины.",
     "price": 3900,
@@ -641,7 +657,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://myastoriya.com.ua/upload/medialibrary/360/360df31c191f4d37df9f432ff4a5278e.png",
     "title": "Отбивная говяжься под сыром",
     "description": "Тонко отбитый кусок говядины с грибным соусом, подается с жареным картофелем.",
     "price": 3900,
@@ -649,7 +665,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://golpas.cafe/uploads/2017/08/img_3906.jpg",
     "title": "Стейк 'Дуэт'",
     "description": "Комбинация двух видов мяса с грибным и сырным соусом, гарнированная овощами.",
     "price": 5200,
@@ -657,7 +673,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeOZvWRUVgGOZoAUarL_EDbRBIoDSFSPtKYFGsZ-__IA&s",
     "title": "Стейк 'Лакомка'",
     "description": "Говядина высшего сорта, подается с картофельными дольками и сладким майонезно-сырным соусом.",
     "price": 4550,
@@ -665,7 +681,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQZA6wNUKc3y-SlHx91MA2aAyGKpcova-HZUqwFj15g&s",
     "title": "Папилет из телятины",
     "description": "Говядина высшего сорта, подается с картофельными дольками и сладким майонезно-сырным соусом.",
     "price": 4550,
@@ -673,7 +689,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/misc/mobile/bb684b3520fff93ebf99c114c08b43f4.jpg",
     "title": "Жареная говяжья вырезка кусочками с луком",
     "description": "Говядина высшего сорта, подается с картофельными дольками и сладким майонезно-сырным соусом.",
     "price": 2600,
@@ -681,7 +697,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://i0.wp.com/my-swiss.ru/wp-content/uploads/2018/08/Z%C3%BCri_Gschn%C3%A4tzlets_3.jpg?fit=800%2C533&ssl=1",
     "title": "Телятина 'Цюрих'",
     "description": "Говядина высшего сорта, подается с картофельными дольками и сладким майонезно-сырным соусом.",
     "price": 2900,
@@ -689,7 +705,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.povar.ru/mobile/1f/f7/85/0e/jarenaya_kartoshka_s_myasom-51269.jpg",
     "title": "Жаренная картошечка с мясом",
     "description": "Говядина высшего сорта, подается с картофельными дольками и сладким майонезно-сырным соусом.",
     "price": 2350,
@@ -697,7 +713,7 @@
   },
   {
     "type": "beef-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGV6dAZ0PjAEDO0Q6G1UlhISc9oRYIcYzdkEcChzLofQ&s",
     "title": "Казан-кебаб",
     "description": "Говядина высшего сорта, подается с картофельными дольками и сладким майонезно-сырным соусом.",
     "price": 3650,
@@ -705,7 +721,7 @@
   },
   {
     "type": "lamb-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu49UnBBYgXJ7D13kEFlSQ46gW2r6FBEN7M-C6Q1bf0Q&s",
     "title": "Бараний окорок с грибами под сыром",
     "description": "Запеченный бараний окорок с грибами, покрытый толстым слоем расплавленного сыра.",
     "price": 4300,
@@ -713,7 +729,7 @@
   },
   {
     "type": "lamb-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://i.ytimg.com/vi/n9-V4MHctmk/maxresdefault.jpg",
     "title": "Бараний окорок на картошечной подушке по-домашнему",
     "description": "Медленно тушеный бараний окорок, подается на мягкой подушке из домашней жареной картошки.",
     "price": 3800,
@@ -721,7 +737,7 @@
   },
   {
     "type": "lamb-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content/30825/baranina-s-kartoshkoi-v-duxovke_1545303069_8_max.jpg",
     "title": "Баранина жаренная с картошечкой по-домашнему",
     "description": "Баранина с картофелем, приготовленная на открытом огне с добавлением пряных специй.",
     "price": 2550,
@@ -729,7 +745,7 @@
   },
   {
     "type": "lamb-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/cat/u1378-93b46d0c2bb7f571a8dea785bdfcde07.jpg",
     "title": "Баранина с картошечкой в пряных специях на жаровне",
     "description": "Жареная баранина с грибами и картофелем, подается горячей с зеленью.",
     "price": 2350,
@@ -737,7 +753,7 @@
   },
   {
     "type": "lamb-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/cat/u-a485725122e0cfe6ae607e55995732e7.JPG",
     "title": "Баранина жаренная с грибами и картошечкой",
     "description": "Жаренная баранина с грибами и картофелем, подается горячей с зеленью.",
     "price": 3250,
@@ -745,7 +761,7 @@
   },
   {
     "type": "fish-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://www.chefmarket.ru/blog/wp-content/uploads/2019/05/salmon-cream-sauce-e1558994220384.jpg",
     "title": "Стейк из семги со сливочным соусом",
     "description": "Нежный стейк из семги, подается с богатым сливочным соусом, украшен свежими травами.",
     "price": 5600,
@@ -753,15 +769,15 @@
   },
   {
     "type": "fish-dishes",
-    "image": "https://example.com/image.jpg",
-    "title": "Рыбный кусочки с овощами под сыром",
+    "image": "https://www.fishingsib.ru/files/image/1articles/2022/10/03/000.jpg",
+    "title": "Рыбные кусочки с овощами под сыром",
     "description": "Кусочки рыбы, запеченные с сезонными овощами и покрытые слоем расплавленного сыра.",
     "price": 3650,
     "weight": "410г"
   },
   {
     "type": "fast-food",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn1.ozonusercontent.com/s3/club-storage/images/article_image_1632x1000/915/6082d510-da3c-4ab8-b880-ab5ee4d4e699.jpeg",
     "title": "Сырные палочки",
     "description": "Хрустящие палочки обвалянные в крошке с сыром, подаются с соусом на выбор.",
     "price": 1700,
@@ -769,7 +785,7 @@
   },
   {
     "type": "fast-food",
-    "image": "https://example.com/image.jpg",
+    "image": "https://images.gastronom.ru/cAL_XyGrAgVKAPCvdbG84X1OAFZJJzwBCMV-YWn92e4/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzIzNzA1NTUwLTg5NjUtNDM5NS04NThiLWY1YWQxZjM1ZGIyNy5qcGc.webp",
     "title": "Кесадилья",
     "description": "Кесадилья с начинкой из сыра и мяса, приправленная мексиканскими специями, подается с соусом сальса.",
     "price": 2000,
@@ -777,7 +793,7 @@
   },
   {
     "type": "fast-food",
-    "image": "https://example.com/image.jpg",
+    "image": "https://fasol.tv/upload/iblock/71a/10rj9bsq25pae52qzxtlutzx66jo4kfp.jpg",
     "title": "Крылья в кляре",
     "description": "Куриные крылья в хрустящем кляре, подаются с гарниром на выбор.",
     "price": 4600,
@@ -785,7 +801,7 @@
   },
   {
     "type": "fast-food",
-    "image": "https://example.com/image.jpg",
+    "image": "https://kfs-menu.ru/images/menu/chikenburger.png",
     "title": "Чикен Бургер",
     "description": "Эксклюзивные чипсы с гуляшем, приготовленные по уникальной технологии.",
     "price": 1300,
@@ -793,7 +809,7 @@
   },
   {
     "type": "fast-food",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/7d7cf574f9a0a465.jpeg",
     "title": "Буррито",
     "description": "Традиционное буррито, наполненное мясом, фасолью, рисом и овощами, подается с соусом гуакамоле.",
     "price": 1500,
@@ -802,7 +818,7 @@
 
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.lifehacker.ru/wp-content/uploads/2022/02/201_1643971179-e1643971274658-1280x640.jpg",
     "title": "Чучвара",
     "description": "Традиционные узбекские пельмени, подаваемые с подливой, приготовленные из мяса и специй.",
     "price": 1200,
@@ -810,7 +826,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/2018/upl/recipes/cat/u-be7fa4f2d632b7e8e0e1b4bd326cb8d2.jpg",
     "title": "Лагман гуйру",
     "description": "Классический лагман с куриной грудкой, подается с овощами и лапшой, приготовленной вручную.",
     "price": 1600,
@@ -818,7 +834,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://maida.kz/wp-content/uploads/2019/12/%D0%A1%D1%83%D0%B9%D1%80%D1%83-%D0%9B%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD-890-%D1%82%D0%B3.jpg",
     "title": "Лагман суйру",
     "description": "Лагман с говядиной, подается с богатым ассортиментом овощей и домашней лапшой.",
     "price": 1600,
@@ -826,7 +842,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/6aaa1f182150de3d.jpeg",
     "title": "Лагман цомян",
     "description": "Пикантный лагман с мясом и овощами, приправленный восточными специями и подаваемый с лапшой.",
     "price": 1600,
@@ -834,7 +850,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/cat/u-c5a7ccf0adfc8b7fd63e611ecee70895.JPG",
     "title": "Хычины",
     "description": "Традиционный блюдо с мясом и специями, запеченное в тесте.",
     "price": 1200,
@@ -842,7 +858,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/151021114948/151027202503/p_O.jpg",
     "title": "Янтых",
     "description": "Киргизские мясные рулеты с чесноком и луком, подаваемые горячими.",
     "price": 700,
@@ -850,7 +866,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://i.ytimg.com/vi/JyEbcDiME7w/maxresdefault.jpg",
     "title": "Пельмени по-дунански",
     "description": "Пельмени с мясным фаршем, приготовленные по традиционному рецепту Душанбе.",
     "price": 1300,
@@ -858,7 +874,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/4473624/pub_629f6d7b842954170048ddd2_629f6dc28131bc06a11f0bc5/scale_1200",
     "title": "Пельмени по-татарски",
     "description": "Пельмени с мясом, приготовленные в татарском стиле, подаются с маслом и уксусом.",
     "price": 1300,
@@ -866,7 +882,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kse-WLykF-jGcBpaNT_-N6azuX5TVwksomRIPep1uQ&s",
     "title": "Чебурек с мясом",
     "description": "Классические чебуреки с сочной мясной начинкой, жаренные до хрустящей корочки.",
     "price": 550,
@@ -874,7 +890,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kse-WLykF-jGcBpaNT_-N6azuX5TVwksomRIPep1uQ&s",
     "title": "Чебурек с курицей",
     "description": "Классические чебуреки с сочной мясной начинкой, жаренные до хрустящей корочки.",
     "price": 460,
@@ -882,7 +898,7 @@
   },
   {
     "type": "eastern-cuisine",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kse-WLykF-jGcBpaNT_-N6azuX5TVwksomRIPep1uQ&s",
     "title": "Чебурек с джусаем",
     "description": "Классические чебуреки с сочной мясной начинкой, жаренные до хрустящей корочки.",
     "price": 460,
@@ -890,7 +906,7 @@
   },
   {
     "type": "garnirs",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.povar.ru/mobile/64/12/b0/54/kartofel_fri_v_domashnih_usloviyah-36496.jpg",
     "title": "Картофель фри",
     "description": "Классический жареный картофель фри, хрустящий и золотистый, подается горячим.",
     "price": 950,
@@ -898,7 +914,7 @@
   },
   {
     "type": "garnirs",
-    "image": "https://example.com/image.jpg",
+    "image": "https://klopotenko.com/wp-content/uploads/2021/04/zapechennaya-kartoshka-s-salom_siteweb-1-1000x600.jpg",
     "title": "Картофель запеченный",
     "description": "Цельные куски картофеля, запеченные до золотистой корочки, подаются с соусом.",
     "price": 950,
@@ -906,7 +922,7 @@
   },
   {
     "type": "garnirs",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img1.russianfood.com/dycontent/images_upl/411/big_410782.jpg",
     "title": "Картошечка жареная по-домашнему",
     "description": "Домашняя жареная картошка, приготовленная на сковороде с добавлением лука.",
     "price": 950,
@@ -914,7 +930,7 @@
   },
   {
     "type": "garnirs",
-    "image": "https://example.com/image.jpg",
+    "image": "https://ital-kvartal.ru/wp-content/uploads/2021/01/kartofel-otvarnoj-s-zelenju.jpg",
     "title": "Картофель отварной с зеленью",
     "description": "Отварной картофель, подаваемый с маслом и свежей зеленью.",
     "price": 950,
@@ -922,7 +938,7 @@
   },
   {
     "type": "garnirs",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content-v2/87/dd/42912/pripuschennyi-ris_1633935421_15_max.jpg",
     "title": "Рис припущенный",
     "description": "Нежное картофельное пюре, приготовленное с добавлением молока и масла, идеально гладкое.",
     "price": 550,
@@ -930,7 +946,7 @@
   },
   {
     "type": "garnirs",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/2019/upl/recipes/cat/u-31482d980810e7197abd71b2f5f2a923.jpg",
     "title": "Картофельное пюре",
     "description": "Нежное картофельное пюре, приготовленное с добавлением молока и масла, идеально гладкое.",
     "price": 550,
@@ -938,7 +954,7 @@
   },
   {
     "type": "pizza",
-    "image": "https://example.com/image.jpg",
+    "image": "https://kudaeda.su/d/15.jpg",
     "title": "Пицца 'Мексиканская'",
     "description": "Пицца с острым мексиканским соусом, колбасами, грибами, оливками и сыром.",
     "price": 3250,
@@ -946,7 +962,7 @@
   },
   {
     "type": "pizza",
-    "image": "https://example.com/image.jpg",
+    "image": "https://royalpizza.ru/upload/iblock/347/347234a0a3dcd5ab738a1734d05e2b86.jpg",
     "title": "Пицца 'Кон-Полло'",
     "description": "Пицца с куриной грудкой, томатами, сладким перцем и сыром.",
     "price": 3000,
@@ -954,7 +970,7 @@
   },
   {
     "type": "pizza",
-    "image": "https://example.com/image.jpg",
+    "image": "https://resizer.mail.ru/p/dd858e60-8fb7-5a16-a925-87013bf17aae/AQAFCkj0_rnuM5qgUj1Mux0GTPYXaDH-MSVRFoa77AFhHquLCSRD3is6Ek2D3zyX0AKUTy81HYS-NFsBxg-Oz7jHmAw.jpg",
     "title": "Пицца 'Грибная'",
     "description": "Пицца с тремя видами грибов, помидорами и двумя видами сыра.",
     "price": 3000,
@@ -962,7 +978,7 @@
   },
   {
     "type": "pizza",
-    "image": "https://example.com/image.jpg",
+    "image": "https://grill-bbq.ru/wp-content/uploads/2019/06/pizza-margarita-na-grile.jpg",
     "title": "Пицца 'Маргарита'",
     "description": "Классическая пицца 'Маргарита' с помидорами, моцареллой и базиликом.",
     "price": 2600,
@@ -970,7 +986,7 @@
   },
   {
     "type": "bread",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.freepik.com/premium-photo/traditional-italian-bread-basket-market-florence-tuscany-italy_250132-26471.jpg",
     "title": "Хлебная корзина итальянская",
     "description": "Классическая пицца 'Маргарита' с помидорами, моцареллой и базиликом.",
     "price": 980,
@@ -978,7 +994,7 @@
   },
   {
     "type": "bread",
-    "image": "https://example.com/image.jpg",
+    "image": "https://api.ecomarket.ru/imgs/products/1233/lepeshka-uzbekskaya-1.1572349570.jpg",
     "title": "Лепешка 'Бек'",
     "description": "Классическая пицца 'Маргарита' с помидорами, моцареллой и базиликом.",
     "price": 150,
@@ -986,7 +1002,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://pivomania.kz/wp-content/uploads/2020/07/Assorti-min.jpg",
     "title": "Ассорти из шашлыков (на 10 персон)",
     "description": "Ассорти из баранины, утки, куриных крылышек и курицы, подается с картофелем фри.",
     "price": 39000,
@@ -994,7 +1010,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.povar.ru/uploads/61/b8/54/b8/zapechennaya_baranya_noga_yagnenok_s_travami-514731.jpg",
     "title": "Жиго барашка (на 10 персон)",
     "description": "Запеченный окорок барашка в маринаде, подается с запеченной картошечкой.",
     "price": 36500,
@@ -1002,7 +1018,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img1.russianfood.com/dycontent/images_upl/507/big_506471.jpg",
     "title": "Семга праздничная (на 10 персон)",
     "description": "Запеченная семга с отварной картошечкой, идеально для праздничного стола.",
     "price": 52000,
@@ -1010,7 +1026,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://zira.uz/wp-content/uploads/2018/12/riba-v-duxovke1.jpg",
     "title": "Форель атлантическая праздничная (на 10 персон)",
     "description": "Запеченная атлантическая форель с отварной картошечкой, украшенная зеленью.",
     "price": 52000,
@@ -1018,7 +1034,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/9707108/pub_644e1c8167fcc550a6566bc7_644e1da76bdf6b3113e1d5fd/scale_1200",
     "title": "Бешбармак 'Праздничный' (на 5 персон)",
     "description": "Традиционный бешбармак с казы, козы, говядиной и бараниной.",
     "price": 23500,
@@ -1026,15 +1042,15 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
-    "title": "Свиные антрикоты в слоеном тесте (на 3-4 персон)",
-    "description": "Свиные антрикоты, запеченные в слоеном тесте, подаются горячими.",
+    "image": "https://img1.russianfood.com/dycontent/images_upl/474/big_473348.jpg",
+    "title": "Свиные антрекоты в слоеном тесте (на 3-4 персон)",
+    "description": "Свиные антрекоты, запеченные в слоеном тесте, подаются горячими.",
     "price": 15600,
     "weight": "3-4 персон"
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://mgorod.kz/wp-content/uploads/2021/05/1617234793_28-p-kuurdak-krasivo-32-1.jpg",
     "title": "Куырдак праздничный (на 5 персон)",
     "description": "Куырдак из баранины с овощами, приправленный специями.",
     "price": 23500,
@@ -1042,7 +1058,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://fort.crimea.com/catering/uploads/fotos/8c9e410c-a2ed-11e9-9c72-54a05051519a_1.jpg",
     "title": "Сазан по-крестьянски (на 8 персон)",
     "description": "Жареный сазан с овощами и зеленью, приготовленный по традиционному рецепту.",
     "price": 39000,
@@ -1050,7 +1066,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://www.products-opt.ru/wa-data/public/shop/products/89/06/689/images/1034/1034.750x0.jpg",
     "title": "Манты праздничные",
     "description": "Жареный сазан с овощами и зеленью, приготовленный по традиционному рецепту.",
     "price": 13000,
@@ -1058,7 +1074,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://static.1000.menu/img/content/20527/-cyplyonok-tabaka-cyplenok-tabaka-kartoshkoi_1495281867_1_max.jpg",
     "title": "Цыплята табака (на 10 персон)",
     "description": "Курица табака с запеченной картошечкой и припущенным рисом.",
     "price": 31200,
@@ -1066,7 +1082,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://i.ytimg.com/vi/GdP2vJqxwj8/maxresdefault.jpg",
     "title": "Бауырсаки (1 кг)",
     "description": "Традиционные казахские бауырсаки, приготовленные по классическому рецепту.",
     "price": 2000,
@@ -1074,7 +1090,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwbydJHjkoGKJ4j8i1mdfQt_J_vuDkSZgGsb27vADbA&s",
     "title": "Сырне (на 6 персон)",
     "description": "Классическое сырне, приготовленное с мясом и овощами, подается горячим.",
     "price": 23500,
@@ -1082,7 +1098,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://sizomarket.kz/wp-content/uploads/2021/05/Dapandzhi-2.jpg",
     "title": "Дапанжи (на 6 персон)",
     "description": "Дапанжи с курицей и овощами, приправленное специями и соусом.",
     "price": 23500,
@@ -1090,7 +1106,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://img.iamcook.ru/old/upl/recipes/cat/u-1c40aaf93827ee2042db49684108a8a5.jpg",
     "title": "Домляма (на 6 персон)",
     "description": "Домляма с мясом и овощами, приготовленная на медленном огне.",
     "price": 23500,
@@ -1098,7 +1114,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://menunedeli.ru/wp-content/uploads/2023/08/6C061981-26CA-4FD4-BE9A-F8D63C0206C7-933x700.jpeg",
     "title": "Плов (на 6 персон)",
     "description": "Традиционный плов с мясом, морковью и специями, подается горячим.",
     "price": 14500,
@@ -1106,7 +1122,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://cdn.nur.kz/images/1120x630/bb36768c113730e2.jpeg",
     "title": "Шашлык баранина",
     "description": "Ассорти из шашлыков: баранина, курица и куриные крылышки, подается с соусом.",
     "price": 2300,
@@ -1114,7 +1130,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/150601195902/150610152223/p_O.jpg",
     "title": "Шашлык курица",
     "description": "Ассорти из шашлыков: баранина, курица и куриные крылышки, подается с соусом.",
     "price": 1600,
@@ -1122,7 +1138,7 @@
   },
   {
     "type": "banquet-dishes",
-    "image": "https://example.com/image.jpg",
+    "image": "https://nakostre24.ru/wp-content/uploads/2019/05/shashlyk-iz-kurinykh-115.jpg",
     "title": "Шашлык крылья",
     "description": "Ассорти из шашлыков: баранина, курица и куриные крылышки, подается с соусом.",
     "price": 2000,
